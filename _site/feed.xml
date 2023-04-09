@@ -1,0 +1,72 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Saumadip</title>
+  <subtitle>Ethical Hacking Trainer | Bug Hunter | CTF Player | HTB Global 100 </subtitle>
+  <updated>2023-04-10T01:22:12+05:30</updated>
+  <author>
+    <name>Saumadip Mandal</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Saumadip Mandal </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Getting Started With CTF</title>
+    <link href="http://localhost:4000/posts/getting-start/" rel="alternate" type="text/html" title="Getting Started With CTF" />
+    <published>2023-04-01T01:00:00+05:30</published>
+  
+    <updated>2023-04-01T01:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/getting-start/</id>
+    <content src="http://localhost:4000/posts/getting-start/" />
+    <author>
+      <name>Saumadip Mandal</name>
+    </author>
+
+  
+    
+    <category term="HTB" />
+    
+    <category term="Coder" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Timezone of Date
+
+In order to accurately record the release date of a post, you should not only set up the timezone of _config.yml but also provide the post’s timezone in variable date of its Front Matter block. Format: +/-TTTT, e.g. +0800.
+
+image
+
+
+
+command
+
+sudo apt-update
+
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

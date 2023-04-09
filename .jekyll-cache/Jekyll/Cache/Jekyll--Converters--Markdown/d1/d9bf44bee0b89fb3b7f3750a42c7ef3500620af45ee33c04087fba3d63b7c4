@@ -1,0 +1,15 @@
+I"<h3 id="timezone-of-date">Timezone of Date</h3>
+
+<p>In order to accurately record the release date of a post, you should not only set up the <code class="language-plaintext highlighter-rouge">timezone</code> of <code class="language-plaintext filepath highlighter-rouge">_config.yml</code> but also provide the post’s timezone in variable <code class="language-plaintext highlighter-rouge">date</code> of its Front Matter block. Format: <code class="language-plaintext highlighter-rouge">+/-TTTT</code>, e.g. <code class="language-plaintext highlighter-rouge">+0800</code>.</p>
+
+<h1 id="image">image</h1>
+
+<p><img src="https://i.imgur.com/fCJLXyR.png" alt="img-description" /></p>
+
+<h1 id="command">command</h1>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nb">sudo </span>apt-update
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+:ET

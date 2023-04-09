@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "Getting Started With CTF",
+    "url": "/posts/getting-start/",
+    "categories": "HTB, Coder",
+    "tags": "HTB",
+    "date": "2023-04-01 01:00:00 +0530",
+    
+
+
+
+
+
+    
+    "snippet": "Timezone of DateIn order to accurately record the release date of a post, you should not only set up the timezone of _config.yml but also provide the post’s timezone in variable date of its Front M...",
+    "content": "Timezone of DateIn order to accurately record the release date of a post, you should not only set up the timezone of _config.yml but also provide the post’s timezone in variable date of its Front Matter block. Format: +/-TTTT, e.g. +0800.imagecommandsudo apt-update"
+  }
+  
+]
+
